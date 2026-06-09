@@ -1,0 +1,5 @@
+image:
+  repository: utsavkalathiya811/devops-demo-app
+  tag: v1.0.0
+
+appEnvironment: "Staging-Via-Helm"
